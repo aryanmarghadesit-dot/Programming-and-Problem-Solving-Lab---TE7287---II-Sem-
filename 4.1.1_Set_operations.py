@@ -1,5 +1,0 @@
-set_a = set(map(int,input("Set A: ").split()))
-set_b = set(map(int,input("Set B: ").split()))
-print("Union:",set_a|set_b)
-print("Intersection:",set_a&set_b)
-print("Difference:",set_a-set_b)
